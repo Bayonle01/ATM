@@ -1,5 +1,5 @@
 print("="*53)
-print("="*15, "WELCOME TO FIRST BANK", "="*15)
+print("="*15, "WELCOME TO BANK", "="*15)
 print("="*53)
 print("Enter your card")
 print('')
